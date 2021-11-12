@@ -1,7 +1,7 @@
 #my first read me
 my first readme
-##hey bngrm.. hw r u
-miss you.
+##hey .. hw r u
+ you.
 stay happy
 
-i WILL CRACK AMDOCS 
+i WILL CRACK this 
